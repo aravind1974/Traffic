@@ -1,2 +1,3 @@
 # Traffic
-Create a myenv file.
+Create a python venv.
+import yolov5 ultralytics
